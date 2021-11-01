@@ -1,8 +1,8 @@
 # ym-bendo
 列出陽明活動有便當的場次，我想吃便當，
 
-陽明活動網：<https://portal.ym.edu.tw/umchi/activity/>
-陽明交大合校後的： <https://ymportal.nycu.edu.tw/umchi/activity/>
+陽明便當網：<https://portal.ym.edu.tw/umchi/activity/>   
+陽明交大合校後的： <https://ymportal.nycu.edu.tw/umchi/activity/>   
 
 ## 使用
 * 安裝[chrome](https://www.google.com/intl/zh-TW/chrome/)與下載[chrome-driver](https://chromedriver.chromium.org/)
